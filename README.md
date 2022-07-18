@@ -15,7 +15,7 @@
 ```
 
 ## Example
-### Ex.1 Overide attribute ตอนดึงค่ามาแสดง
+### Ex.1 Override attribute ตอนดึงค่ามาแสดง
 ```php
 public function getMemberDetailAttribute($key)
 {
@@ -26,7 +26,7 @@ public function getMemberDetailAttribute($key)
 }
 ```
 
-### Ex.2 Overide attribute ตอนดึงค่ามาแสดง
+### Ex.2 Override attribute ตอนดึงค่ามาแสดง
 ```php
 public function getPrevWaterMeterAttribute($key)
 {
@@ -38,7 +38,7 @@ public function getPrevWaterMeterAttribute($key)
 }
 ```
 
-### Ex.1 Overide attribute ตอนเพิ่มค่าลงฐานข้อมูล
+### Ex.1 Override attribute ตอนเพิ่มค่าลงฐานข้อมูล
 ```php
 public function setMemberDetailAttribute($value)
 {
